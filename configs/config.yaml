@@ -1,0 +1,6 @@
+
+##数据库配置
+db_host: 104.224.172.14:3306
+db_name: read_book
+db_user: zhuxuyang
+db_password: sz1234
